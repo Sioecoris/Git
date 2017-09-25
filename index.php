@@ -1,7 +1,3 @@
-<!--
-Ce code source vous est proposé gratuitement par www.geeckodrome.com
-
--->
 <?php include('head.php') ?>
 <?php include('menu.php') ?>
 <body>
