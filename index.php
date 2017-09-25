@@ -1,3 +1,5 @@
+<!-- modification réalisée sur la branche test -->
+
 <?php include('head.php') ?>
 <?php include('menu.php') ?>
 <body>
@@ -17,6 +19,7 @@ $action = (isset($_GET['action']))?htmlspecialchars($_GET['action']):''; //On r�
 	}
 
 
+// seconde modification sur la branche test
 
 	switch($action)
 	{
