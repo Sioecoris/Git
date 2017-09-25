@@ -1,3 +1,5 @@
+<!-- modification réalisée sur la branche test -->
+
 <?php include('head.php') ?>
 <?php include('menu.php') ?>
 <body>
