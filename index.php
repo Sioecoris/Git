@@ -2,6 +2,7 @@
 <?php include('menu.php') ?>
 <body>
 <?php
+// modification réalisée sur la branche principale
 $action = (isset($_GET['action']))?htmlspecialchars($_GET['action']):''; //On récupère la valeur de la variable $action
 
 	try
