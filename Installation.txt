@@ -1,17 +1,18 @@
-Bonjour à tous ! 
+modifiÃ© depuis github
+Bonjour Ã  tous ! 
 
 Pour l'installation. Vous devez tout d'abord modifier la ligne 16 du fichier "index.php"
 
  => $bdd = new PDO('mysql:host=localhost;dbname=todo;charset=utf8', 'root', '');
 
 host = l'adresse de votre serveur, dans mon cas ma propre machine donc localhost
-Dbname = le nom de votre base de données, pour moi c'est "todo"
-Charset permet de préciser l'encodage de vos pages (utiles pour éviter les points d'interrogation par exemple)
-Les deux suivants sont dans l'ordre le login pour se connecter à votre base de données, et le mot de passe
+Dbname = le nom de votre base de donnÃ©es, pour moi c'est "todo"
+Charset permet de prÃ©ciser l'encodage de vos pages (utiles pour Ã©viter les points d'interrogation par exemple)
+Les deux suivants sont dans l'ordre le login pour se connecter Ã  votre base de donnÃ©es, et le mot de passe
 
-Vous devez ensuite créer une table "tache" qui contient :
+Vous devez ensuite crÃ©er une table "tache" qui contient :
 
-id int(11) en auto incrémente
+id int(11) en auto incrÃ©mente
 type text
 nom text
 prenom text
@@ -23,9 +24,9 @@ timestamp int(11)
 
 
 
-Ce code source vous est proposé gratuitement par www.geeckodrome.com
-Pour soutenir mon travail, merci de cliquer sur ce lien adfly (publicité)
+Ce code source vous est proposÃ© gratuitement par www.geeckodrome.com
+Pour soutenir mon travail, merci de cliquer sur ce lien adfly (publicitÃ©)
 http://adf.ly/14550039/geeckodrome
-Merci à tous =) ! 
+Merci Ã  tous =) ! 
 
 
